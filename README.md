@@ -2,7 +2,7 @@
 
 Academic Project for the course of **Analyzing and Visualizing Data**
 
-Group: Francisco Costa, João Gouveia, Pedro Riveira, Nuno Rocha
+Group: Francisco Costa, João Gouveia, Pedro Rivera, Nuno Rocha
 
 Technologies used: **PowerBI, Python** (used to scrape data)
 
