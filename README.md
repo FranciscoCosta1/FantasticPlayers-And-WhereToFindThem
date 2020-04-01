@@ -12,3 +12,5 @@ As such, this project will essentially comprise three sections:
   * **Analysis by league**; 
   * **Analysis per club**;
   * **A player profile page featuring the most similar players to that one.**
+
+The data used in this project was extracted from FIFA 20 database and Transfermarkt website.
